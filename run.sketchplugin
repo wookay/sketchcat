@@ -1,0 +1,12 @@
+// Test Sketch (cmd e)
+//                           wookay.noh at gmail.com
+
+#import 'unittest.js'
+#import 'sketch.js'
+#import 'TestCases/test_js.js'
+#import 'TestCases/test_sketch_shapes.js'
+#import 'TestCases/test_sketch_image.js'
+#import 'TestCases/test_sketch_text.js'
+#import 'TestCases/test_sketch_view.js'
+
+doc.showMessage("finished")
